@@ -4,7 +4,7 @@ A shiny app to format Common Workflow Language (CWL) apps using the Python packa
 
 ## Dependencies
 
-This app uses [reticulate](https://rstudio.github.io/reticulate/) to call Python and the Python package [cwlformat](https://pypi.org/project/cwlformat/). Follow its readme to install the Python package either using pip or from GitHub.
+This app uses [reticulate](https://rstudio.github.io/reticulate/) to call Python and the Python package [cwlformat](https://github.com/rabix/cwl-format). Follow its readme to install the Python package either using pip or from GitHub.
 
 After the Python package is installed, modify `.Rprofile` to give a hint to reticulate on where to find Python and the installed package. The default location is for a macOS Homebrew Python 3. Relaunch the RStudio session to use this profile.
 
