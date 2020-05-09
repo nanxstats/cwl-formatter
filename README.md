@@ -20,6 +20,7 @@ use_virtualenv("venv", required = TRUE)
 
 ## Related apps
 
+- [cwl-exploder](https://github.com/nanxstats/cwl-exploder) - Shiny app to unpack monolithic CWL workflows and split them into smaller components.
 - [cwl-upgrader](https://github.com/nanxstats/cwl-upgrader) - Shiny app to upgrade Common Workflow Language (CWL) apps from sbg:draft2 to v1.0.
 
 ## Copyright
